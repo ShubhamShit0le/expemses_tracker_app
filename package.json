@@ -2,7 +2,7 @@
   "name": "expeses_tracker_app",
   "version": "0.1.0",
   "private": true,
-  "homepages":"http://shubhamshitole099.github.io/demo",
+  "homepages":"http://ShubhamShit0le.github.io/expenses_tracker_app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
